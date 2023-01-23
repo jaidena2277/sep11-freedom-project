@@ -1,7 +1,7 @@
 # Entry 2
-##### X/X/XX
+##### 1/23/23
 
-Text
+Recap: In this freedom projct I have had weeks to tinker and think about what tool I would like to use for it. I Had multiple options to pick from like Kaboom.js or Melon.js or even Impact.js. The tool I chose was Kaboom.js and I believe it was the right choice. My project was about a platform game that had diffeent levelsand you had to jump to go to the next level. During the new weeks I had to work on this roject I decided I was going to focus on how to make the levels.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
