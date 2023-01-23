@@ -21,7 +21,7 @@ This is incorrect and you have to make the commas the same length as the commas 
 "        ="
 "========="
 ```
- The next problem was the defining. I understood most of the code but I was trying to see if I can change the origin to something else but I tried many different things and it seems like it has to be a specific set of words or word. This means next time I code I will have to look further into each component to fully understand what requirments would the code need to be identified as origin.
+ The next problem was the defining. I understood most of the code but I was trying to see if I can change the origin to something else but I tried many different things and it seems like it has to be a specific set of words or word. This means next time I code I will have to look further into each component to fully understand what requirments would the code need to be identified as origin. In terms of EDP I would say im on steps one and two. I say this because I am defining the problem with my team and now researching the problem by learning how to make levels and understanding the components inside of the code. In terms of skills I would say I need to learn or am already learning four skils 
                                                                                
  
 
