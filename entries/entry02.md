@@ -5,6 +5,17 @@ Recap: In this freedom projct I have had weeks to tinker and think about what to
 
 Now as we head into actually coding the project we start with defining the level. The first thing I did was design the level. What I noticed during the coding was that the "," was a crucial part of the code. Without the "," the code wouldnt work and it would be a blank screen.![image](https://user-images.githubusercontent.com/91745222/214090306-de2b188c-b12c-43d9-b064-7d1815797a66.png)
 
+As you can see the code works well and the commas are there. But in this example just one comma is gone and the whole code is ruined.
+![image](https://user-images.githubusercontent.com/91745222/214090580-5b0d9aae-2363-49bc-a2c2-7eeea5249151.png)
+
+Here is with the comma:![image](https://user-images.githubusercontent.com/91745222/214090776-4c8927b9-3110-4811-879d-f2398c1b7bd7.png)
+
+Here is without the comma:![image](https://user-images.githubusercontent.com/91745222/214090895-ba1972d9-0a11-4a1c-a831-589cd4d642e6.png)
+
+
+
+
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
