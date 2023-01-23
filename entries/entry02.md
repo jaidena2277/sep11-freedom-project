@@ -16,8 +16,12 @@ The next discovery that I made was that you need to have the commas over the ent
         "="
 "============"
 ```
-This is incorrect and you have to make the commas the same length as the commas below it so like this: "        ="
-                                                                                                       "========="
+This is incorrect and you have to make the commas the same length as the commas below it so like this: 
+```js
+"        ="
+"========="
+```
+ The next problem was the defining. I understood most of the code but I was trying to see if I can change the origin to something else but I tried many different things and it seems like it has to be a specific set of words or word. This means next time I code I will have to look further into each component to fully understand what requirments would the code need to be identified as origin.
                                                                                
  
 
