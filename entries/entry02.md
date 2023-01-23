@@ -11,7 +11,12 @@ As you can see the code works well and the commas are there. But in this example
 Here is with the comma:![image](https://user-images.githubusercontent.com/91745222/214090776-4c8927b9-3110-4811-879d-f2398c1b7bd7.png)
 
 Here is without the comma:![image](https://user-images.githubusercontent.com/91745222/214090895-ba1972d9-0a11-4a1c-a831-589cd4d642e6.png)
-
+The next discovery that I made was that you need to have the commas over the entire code for it to work and not in the spot you want the item or block to appear. I was trying to make it to where I put the comma "=" directly above the rest of the code like this:         "="
+                                                                                                            "============"
+This is incorrect and you have to make the commas the same length as the commas below it so like this: "        ="
+                                                                                                       "========="
+                                                                               
+ 
 
 
 
