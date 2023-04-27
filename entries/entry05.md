@@ -75,7 +75,9 @@ The last level was the best level I made. The first floor was a basic design wit
 			offscreen({ hide: true }),
 			"danger",
 ```
+Its funny because after someone dies to the one at the very start of the level they think to themselves " how funny but now I have to get past it and get to the real portal". Jokes on them, Beating the game was SUPER easy once they get to the third level. All they have to do is jump off the map on the left side and right before the limit where you die is the real portal.
 
+Onto the next smaller challenge. This challenge was hard to hard to fix at first but really easy to fix once you see what the problem is. Kind of like when you blunder in a game of chess and realize your mistake. 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
