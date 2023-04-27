@@ -9,7 +9,8 @@ area(),
 anchor("bot"),
 body()
 ```
-Even though I had to add these things to make the ai I understood that nothing was more important than adding the "enemy" class to it. I soon finished with the body of the ai and had to import a custom body to it to be able to see the ai. Of course it wasnt moving because I stopped working on the movement to make the body appear because without a body how would I know it works. Most likely console.log but I didnt think of that at the time. 
+Even though I had to add these things to make the ai I understood that nothing was more important than adding the "enemy" class to it. I soon finished with the body of the ai and had to import a custom body to it to be able to see the ai. Of course it wasnt moving because I stopped working on the movement to make the body appear because without a body how would I know it works. Most likely console.log but I didnt think of that at the time. ![image](https://user-images.githubusercontent.com/91745222/234890116-fb50d841-7062-4dde-9504-48a41a8b5f49.png)
+
 
 
 Now that the body is done I could move on to how to make the body move. This was probably the most difficult challenge I had. I set the speed to a nice smooth tempo where it wasnt too fast or too slow. I made a function that was going to have the speed in it so all I had to do was call the function every time i needed the speed to be used. I had trouble understanding the syntax and didnt know I needed requirements for the position and area. This is because it needs the current position and area of the sprite to know that it can move. The last part of doing the speed was adding the collisions so that when the ai hit a wall it would turn around and keep bouncing back and fourth repeatedly. This was easier as all I had to do was make it change direction every time the sprite hits the wall.
