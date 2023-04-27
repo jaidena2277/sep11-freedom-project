@@ -79,6 +79,8 @@ Its funny because after someone dies to the one at the very start of the level t
 
 Onto the next smaller challenge. This challenge was hard to hard to fix at first but really easy to fix once you see what the problem is. Kind of like when you blunder in a game of chess and realize your mistake. One of my partners had a problem with restarting the game and every time they tried to press a key to restart the game it would show an error pop up. This was really annoying because after he tried to look for 2 hours he told me to help him and I didnt understand how to fix it. But using the rubber ducky method without knowing it, Safe was telling me how every time he pressed a key it was supposed to restart. When he said that my brain started focusing and visualising what that actually meant and then it hit me. What if we changed the ```Function keypressed()``` to ```Function mousePressed``` because if you think about it. We are using keys to move so it would make sense for it to malfunction so if we just switch the function to mouse presssed it would be all good.
 
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
