@@ -37,7 +37,7 @@ function patrol(speed = 300, dir = 1) {
 ```
 I dont know how to add a video of the sprite moving back and fourth so I will show you the code of how I made the sprite bounce back and fourth.
 
-Even after all my effort into making this ai move, it still did not move. I was so confused as to why the ai wasnt moving when Im pretty sure the code worked. I went into a call with one of my partners to discuss this error that I had made in the code. We talked for a while and I was explaining what I did and asked him why it wasnt working 
+Even after all my effort into making this ai move, it still did not move. I was so confused as to why the ai wasnt moving when Im pretty sure the code worked. I went into a call with one of my partners to discuss this error that I had made in the code. We talked for a while and I was explaining what I did and asked him why it wasnt working, we couldnt come up with anything and as I was ranting about how sure I was of this working I realized that I didnt call the function. The entire 2 hours of looking at my code and wondering why it doesnt work was all for nothing. SO I added ``` patrol()``` to the code of the sprite so that it could move.
 
 
 
