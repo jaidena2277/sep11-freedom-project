@@ -12,6 +12,9 @@ body()
 Even though I had to add these things to make the ai I understood that nothing was more important than adding the "enemy" class to it. I soon finished with the body of the ai and had to import a custom body to it to be able to see the ai. Of course it wasnt moving because I stopped working on the movement to make the body appear because without a body how would I know it works. Most likely console.log but I didnt think of that at the time. 
 
 
+Now that the body is done I could move on to how to make the body move. This was probably the most difficult challenge I had. I set the speed to a nice smooth tempo where it wasnt too fast or too slow.
+
+
 
 
 [Previous](entry03.md) | [Next](entry05.md)
