@@ -37,7 +37,34 @@ In this image I made a level where you spawn at the start and then you are force
                 "            $$$          *             ",
                 "    *       ====                   ",
 ```
-This was the next level I made and the new problem was the spikes. The spikes were now bigger than the blocks and I had to cut them into smaller portions to fix the annoyance of 
+This was the next level I made and the new problem was the spikes AND the blocks. The spikes were now bigger than the blocks and I had to cut them into smaller portions to fix the annoyance of trying to jump on a block but dying due to the bigger size of the spike. The rest of the level was fine until you went down to floor 2. On floor two I added a gap to make the level have pzzaz. This part did not work due to the size of the blocks being too big. The character was unable to fit through the gap couldnt move on to the next level.
+
+```js
+" *               $              = = =            *    =",
+        "             $  =    =           *  =                =",
+        "         $   =       =             =                =",
+        "         =         = =   =   =    =                 = ",
+        "      =^^ ^^ ^^     f=   >        =    ^^^          =",
+        "===============================================     =",
+        "=                                                   =",
+        "=                                                   =  ",
+        "=                                                   =  ",
+        "=    ^     >   >    >    >     >    >    >   >    > =    ",
+        "=    ================================================     ",
+        "=                                                   =",
+        "=                                                   =",
+        "=  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$=    ",
+        "=  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$f=     ",
+        "=====================================================      ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " @",
+```
 
 [Previous](entry04.md) | [Next](entry06.md)
 
