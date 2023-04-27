@@ -65,7 +65,17 @@ This was the next level I made and the new problem was the spikes AND the blocks
         "",
         " @",
 ```
-The last level was the best level I made. The first floor was a basic design with only spikes and blocks and a cool little trick I added but I will get into that later. The second floor however made the level live up to the difficulty of hard because I added 9 bots that all bump into each other making them unpredictable and giving the user a harder time with completing the floor. In addition the user could not just simply play the game enough to figure out a pattern in the bumps and try to time its jumps to kill them because the ai bumped each other periodically meaning they would bump each other at random. Once you are on the last floor its a piece of cake. I wanted to reward the user with a whole bunch of coins on their way to the portal to claim victory... Or so it seemed. As I mentoned before I added a little trick. When they reach the portal at the bottom they LOSE!!!. This is because I added a fake portal to the game. 
+The last level was the best level I made. The first floor was a basic design with only spikes and blocks and a cool little trick I added but I will get into that later. The second floor however made the level live up to the difficulty of hard because I added 9 bots that all bump into each other making them unpredictable and giving the user a harder time with completing the floor. In addition the user could not just simply play the game enough to figure out a pattern in the bumps and try to time its jumps to kill them because the ai bumped each other periodically meaning they would bump each other at random. Once you are on the last floor its a piece of cake. I wanted to reward the user with a whole bunch of coins on their way to the portal to claim victory... Or so it seemed. As I mentoned before I added a little trick. When they reach the portal at the bottom they LOSE!!!. This is because I added a fake portal to the game. I took inspiration from my partner safes idea for adding a portal to the game to change levels. It was super easy to make, I just copied the code of our spike we had and changed the image of it into a portal and reclassed it.
+```js
+"f": () => [
+			sprite("fake"),
+			area(),
+			body({ isStatic: true }),
+			anchor("bot"),
+			offscreen({ hide: true }),
+			"danger",
+```
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
