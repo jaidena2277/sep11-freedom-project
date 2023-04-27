@@ -9,7 +9,7 @@ area(),
 anchor("bot"),
 body()
 ```
-Even though I had to add these things to make the ai I understood that nothing was more important than adding the "enemy" class to it. I soon finished with the body of the ai and had to import a custom body to it to be able to see the ai. Of course it wasnt moving because I stopped working on the movement to make the body appear because without a body how would I know it works. Most likely console.log but I didnt think of that at the time. ![image](https://user-images.githubusercontent.com/91745222/234749040-51989abc-5a4f-455e-a247-bc8757184d76.png)
+Even though I had to add these things to make the ai I understood that nothing was more important than adding the "enemy" class to it. I soon finished with the body of the ai and had to import a custom body to it to be able to see the ai. Of course it wasnt moving because I stopped working on the movement to make the body appear because without a body how would I know it works. Most likely console.log but I didnt think of that at the time. 
 
 
 
